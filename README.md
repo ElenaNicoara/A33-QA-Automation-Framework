@@ -1,2 +1,1 @@
-# codepath-prework
-Codepath project
+# A33-QA-Automation-Framework
